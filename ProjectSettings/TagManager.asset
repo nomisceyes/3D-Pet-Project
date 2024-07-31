@@ -3,15 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Way
+  - Enemy
+  - Weapon
+  - Coin
+  - Bone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - BoneLayer
   - 
   - 
   - 
